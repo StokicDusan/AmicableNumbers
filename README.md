@@ -45,7 +45,7 @@ Invoking the script with no or less arguments will run testmod().
 [issues-url]: https://github.com/StokicDusan/AmicableNumbers/issues
 [commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/AmicableNumbers
 [commit-activity-url]: https://github.com/StokicDusan/AmicableNumbers/graphs/commit-activity
-[license-url]: https://github.com/StokicDusan/AmicableNumbers/blob/master/LICENSE
+[license-url]: https://github.com/StokicDusan/AmicableNumbers/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/StokicDusan/AmicableNumbers
 [repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/AmicableNumbers
 [repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/AmicableNumbers
