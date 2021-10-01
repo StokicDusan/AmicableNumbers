@@ -37,6 +37,12 @@ Any positive integer
 
 Invoking the script with no or less arguments will run testmod().
 
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
+
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/AmicableNumbers
 [contributors-url]: https://github.com/StokicDusan/AmicableNumbers/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/StokicDusan/AmicableNumbers?style=social
