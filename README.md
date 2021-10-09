@@ -23,14 +23,14 @@ This script require the math, sys, doctest and time package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/AmicableNumbers
-$> cd AmicableNumbers/
+```bash
+$ git clone https://github.com/StokicDusan/AmicableNumbers
+$ cd AmicableNumbers/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with one argument:
-```zsh
-$> python amicableNumbers.py argv1
+```bash
+$ python amicableNumbers.py argv1
 ```
 * argv1:  
 Any positive integer  
