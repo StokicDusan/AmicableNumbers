@@ -37,21 +37,6 @@ Any positive integer
 
 Invoking the script with no or less arguments will run testmod().
 
-## Examples
-
-The following code block shows examles of calling the amicableNumbers script from terminal.
-
-```bash
-$ python3 amicableNumbers.py 150
-
-$ python3 amicableNumbers.py 300
-[ 220  ,  284 ]
-
-$ python3 amicableNumbers.py 2620
-[ 220  ,  284 ]
-[ 1184  ,  1210 ]
-[ 2620  ,  2924 ]
-```
 
 ## Provide Feedback 👍
 
