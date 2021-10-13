@@ -39,7 +39,7 @@ Invoking the script with no or less arguments will run testmod().
 
 ## Examples
 
-The following code block shows examles of calling the amicableNumbers script from terminal.
+The following code block shows examples of calling the amicableNumbers script from terminal.
 
 ```bash
 $ python3 amicableNumbers.py 150
